@@ -1,0 +1,3 @@
+# 市川海老蔵なら、URLが http://ameblo.jp/ebizo-ichikawa だから、
+ebizo-ichikawa
+# 複数記載も可能
